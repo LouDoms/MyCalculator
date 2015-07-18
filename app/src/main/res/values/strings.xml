@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="add">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="clear">C</string>
+    <string name="exit">Exit</string>
+    <string name="hintFirstNum">First Number</string>
+    <string name="hintSecondNum">Second Number</string>
+
+
+    <string name="app_name">MyCalculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

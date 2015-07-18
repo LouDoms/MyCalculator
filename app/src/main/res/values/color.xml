@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="lime" type="color">#CDDC39</item>
+    <item name="light_green" type="color">#8BC34A</item>
+
+    <color name="errorColor">#FF5722</color>
+    <color name="successColor">#CDDC39</color>
+
+    <color name="button">#FFFFFF</color>
+</resources>
